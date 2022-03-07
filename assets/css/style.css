@@ -1,0 +1,64 @@
+body{
+    background-color: #754ffe34;
+}
+.profile-img{
+    width: 60px;
+    border-radius: 50%;
+}
+.navbar{
+    background-color: #754FFE;
+}
+.face{
+    width: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.writter-name{
+    color: #754FFE;
+}
+.top p{
+    color: lightslategrey;
+}
+.banner-img{
+    margin-right: 20px;
+    border-radius: 10px;
+}
+.top-section{
+    background-color: #fff;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 50px;
+}
+.course img{
+    width: 300px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.course{
+    padding: 50px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.course-teacher{
+    color: #ffd900;
+}
+.orange-color{
+    color: #ffb007;
+}
+.time{
+    background-color: #f8881f25;
+    padding: 5px 15px;
+    border-radius: 10px;
+}
+.bi-stopwatch{
+    color: #f8881f;
+}
+.course-content{
+    padding: 50px;
+}
+footer{
+    margin: 20px 0;
+    color: lightslategray;
+    font-size: 12px;
+}
